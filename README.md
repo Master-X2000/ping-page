@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/master-x2000/ping-page/)
-- Live Site URL: [Add live site URL here](https://master-x2000.github.io/ping-page/)
+- Solution URL: [view](https://github.com/master-x2000/ping-page/)
+- Live Site URL: [view](https://master-x2000.github.io/ping-page/)
 
 ## My process
 
